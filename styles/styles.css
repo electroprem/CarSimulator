@@ -1,0 +1,25 @@
+body {
+    background-color: deepskyblue;
+    font-family: "Londrina Solid";
+}
+
+header {
+    position: relative;
+    background-color: aliceblue;
+    height: 75px;
+    text-align: center;
+    font-size: 50px;
+    margin: 30px 0px;
+}
+
+.info-tab {
+    font-size: 30px;
+    margin: 30px;
+    position: relative;
+}
+
+.info {
+    margin: 0 100px;
+    padding: 25px;
+    display: inline-block;
+}
