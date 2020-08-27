@@ -16,10 +16,34 @@ header {
     font-size: 30px;
     margin: 30px;
     position: relative;
+    color: aliceblue;
 }
 
 .info {
     margin: 0 100px;
     padding: 25px;
     display: inline-block;
+}
+
+.carImage {
+    text-align: center;
+}
+
+#car {
+    height: 250px;
+    width: 250px;
+}
+
+.controls-tab {
+    margin: 30px;
+    position: relative;
+}
+
+.cButton {
+    margin: 0 160px;
+    padding: 20px;
+    display: inline-block;
+    font-family: 'Londrina Solid';
+    font-size: 1.5em;
+    border-radius: 50%;
 }
