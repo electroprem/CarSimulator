@@ -20,8 +20,8 @@ header {
 }
 
 .info {
-    margin: 0 100px;
-    padding: 25px;
+    margin: 0 80px;
+    padding: 20px;
     display: inline-block;
 }
 
@@ -89,4 +89,16 @@ header {
 .dst_box {
     display: inline-block;
     margin: 0px 40px;
+}
+
+#engine {
+    background-color: tomato;
+}
+
+#drive {
+    background-color: tomato;
+}
+
+#park {
+    background-color: lightgreen;
 }
